@@ -1,0 +1,3 @@
+io/dapr/serverlessworkflow/workflow/ServerlessWorkflowExecutorTest.class
+io/dapr/serverlessworkflow/activities/HttpCallActivityTest.class
+io/dapr/serverlessworkflow/parser/ServerlessWorkflowParserTest.class
